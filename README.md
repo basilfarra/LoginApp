@@ -1,5 +1,4 @@
-# LoginApp
-Login.App
+# LoginApp - Homework #1
 
 # Activity 1 (Main Activity) consists of the following views
 a. ImageView
